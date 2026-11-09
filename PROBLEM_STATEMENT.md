@@ -1,4 +1,4 @@
-# Planteamiento del problema: Interfood
+# Planteamiento del problema
 
 ## Contexto
 En Interfood los pedidos se toman en papel y se pasan las cuentas a la caja para su facturación. Esto retrasa la atención, confunde los pedidos y deja el negocio sin datos claros de consumo.
