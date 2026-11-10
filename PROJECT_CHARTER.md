@@ -78,10 +78,10 @@ Crear una aplicación web para gestionar los pedidos, el cierre de cuentas y los
 
 ## 7. Restricciones técnicas y de calidad (Requisitos No Funcionales)
 
-* **Usabilidad (RNF-01):** Interfaz con enfoque Mobile-First mediante Flexbox y Grid, priorizando agilidad y facilidad de uso en pantalla táctil (Tablets y celulares).
+* **Usabilidad (RNF-01):** Interfaz con enfoque Mobile-First mediante Flexbox y Grid, priorizando agilidad y facilidad de uso en pantalla táctil (tablets y celulares).
 * **Seguridad por roles (RNF-02):** Control de acceso donde los meseros tienen restringida la acción de cobro y cierre definitivo de caja.
 * **Rendimiento local (RNF-03):** Operación sobre red local (LAN) con Node.js y SQLite, ofreciendo tiempos de respuesta que no dependen de conexión a internet.
-* **Mantenibilidad (RNF-04):** Arquitectura desacoplada en capas (Frontend, API REST y Base de Datos) para facilitar la lectura y evolución del código.
+* **Mantenibilidad (RNF-04):** Arquitectura desacoplada en capas (Frontend, Backend (API REST) y Base de Datos) para facilitar la lectura y evolución del código.
 
 ---
 
